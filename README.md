@@ -1,6 +1,7 @@
+<!DOCTYPE html>
 # HTML_Form_Element
 The &lt;input> Element
-<!DOCTYPE html>
+
 <html>
 <body>
 
