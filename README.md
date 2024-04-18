@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 # HTML_Form_Element
-The &lt;input> Element
+*The &lt;input> Element
 
 <html>
 <body>
